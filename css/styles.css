@@ -1,0 +1,33 @@
+/*html{
+    font-size: 62.5%;
+}
+    */
+body{
+    background-color: blueviolet;
+    font-size: 16px;
+    font-family: 'Roboto',sans-serif;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    font-size: 2rem;
+}
+h2{
+    color: white;
+    text-align: center;
+    font-size: 1.5rem;
+}
+h3{
+    color: white;
+    text-align: center;
+    background-color: black;
+}
+.Nombre span{
+    color: rgb(210, 66, 104);
+    font-size: 1.5rem;
+}
+.Nombre{
+    color:rgb(16, 239, 65);
+    text-align: center;
+}
