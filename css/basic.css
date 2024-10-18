@@ -106,3 +106,37 @@ main .education{
 main{
     display: flex;
 }
+.reviews{
+    display: flex;
+    padding: 2rem;
+    justify-content: space-between;
+}
+
+.c1{
+    background-color: green;
+    padding-left: 1rem;
+    padding-bottom: 1rem;
+    justify-content: center;
+    box-sizing: inherit;
+    padding-right: 1rem;
+}
+.c2{
+    background-color: blue;
+    padding-left: 1rem;
+    padding-bottom: 1rem;
+    justify-content: center;
+    box-sizing: inherit;
+    padding-right: 1rem;
+}
+.c3{
+    background-color: brown;
+    padding-left: 1rem;
+    padding-bottom: 1rem;
+    justify-content: center;
+    box-sizing: inherit;
+    padding-right: 1rem;
+}
+
+footer{
+    text-align: center;
+}
