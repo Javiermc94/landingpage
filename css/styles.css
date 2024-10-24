@@ -3,7 +3,7 @@
 }
     */
 body{
-    background-color: blueviolet;
+    background-color:  #508267;
     font-size: 16px;
     font-family: 'Roboto',sans-serif;
 }
@@ -35,4 +35,21 @@ h3{
 .imagen
 {
     background-image: url(../img/imagen01.jpg );
+}
+.tab-container-1{
+display: flex;
+justify-content: space-around;
+width: 100%;
+margin: 0 auto;
+}
+.tab-container-1 div{
+    width: 15%;
+    text-align: center;
+    background-color: rgb(199, 228, 255);
+    border: 3px solid black;
+    border-radius: 12px;
+    padding:10px 0 ;
+}
+.tab-container-1 div:hover{
+    background-color: rgb(213, 226, 238);
 }
