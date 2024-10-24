@@ -31,3 +31,8 @@ h3{
     color:rgb(16, 239, 65);
     text-align: center;
 }
+
+.imagen
+{
+    background-image: url(../img/imagen01.jpg );
+}
